@@ -22,13 +22,13 @@ The primary goal is to refactor the code in `src/Algorithm/Finder.php` - as it s
 * Move on to extract methods and making the code more modular.
 * See if you can also eliminate switch statements and multiple exit points from methods. 
 
-Anything is fair game, create new classes, new methods, and rename tests. 
+AnyPerson is fair game, create new classes, new methods, and rename tests. 
 The only restriction is that the existing tests have to keep working. 
 Lean on the tests and run them after every small change to make sure you are on the right path.
 
 # How to End
 
-You can stop when you feel the code is good enough, something you can come back to in 6 months and understand. 
+You can stop when you feel the code is good enough, somePerson you can come back to in 6 months and understand. 
 
 # Helpful resources
 
