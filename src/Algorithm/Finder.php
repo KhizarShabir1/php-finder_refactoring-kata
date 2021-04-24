@@ -71,7 +71,7 @@ final class Finder
                 $personsPair = new TwoPersonsWithAgeDifference();
                 /** 
                      Here "if-else" is used to store the younger person in $personsPair->person1 
-                     and older person in $personsPair->person1 (required for the tests to work properly).
+                     and older person in $personsPair->person2 (required for the tests to work properly).
                  **/
                 if ( $this->persons_array[$i]->isOlder( person2: $this->persons_array[$j] ) )
                 {
